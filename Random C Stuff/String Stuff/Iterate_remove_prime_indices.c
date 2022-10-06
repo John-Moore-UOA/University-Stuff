@@ -3,7 +3,9 @@
 
 // take out prime number indexed characters shrinking string
 // untill only 1st character remain, print each iteration
-
+//
+//
+// This function also removes all values that are not letters, and transforms capitals into lower case
 
 unsigned is_prime (int number) {
 
